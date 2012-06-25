@@ -1,0 +1,17 @@
+D:\Code\office\ExcelSendSheet\ExcelSendSheet\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\office\ExcelSendSheet\ExcelSendSheet\obj\Debug\ExcelSendSheet.Properties.Resources.resources
+D:\Code\office\ExcelSendSheet\ExcelSendSheet\obj\Debug\GenerateResource.read.1.tlog
+D:\Code\office\ExcelSendSheet\ExcelSendSheet\obj\Debug\GenerateResource.write.1.tlog
+D:\Code\office\ExcelSendSheet\ExcelSendSheet\bin\Debug\ExcelSendSheet.dll
+D:\Code\office\ExcelSendSheet\ExcelSendSheet\bin\Debug\ExcelSendSheet.pdb
+D:\Code\office\ExcelSendSheet\ExcelSendSheet\bin\Debug\ExcelSendSheet.dll.manifest
+D:\Code\office\ExcelSendSheet\ExcelSendSheet\bin\Debug\ExcelSendSheet.vsto
+D:\Code\office\ExcelSendSheet\ExcelSendSheet\bin\Debug\ExcelSendSheet.xlsm
+D:\Code\office\ExcelSendSheet\ExcelSendSheet\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Code\office\ExcelSendSheet\ExcelSendSheet\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+D:\Code\office\ExcelSendSheet\ExcelSendSheet\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Code\office\ExcelSendSheet\ExcelSendSheet\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+D:\Code\office\ExcelSendSheet\ExcelSendSheet\obj\Debug\ExcelSendSheet.dll
+D:\Code\office\ExcelSendSheet\ExcelSendSheet\obj\Debug\ExcelSendSheet.pdb
+D:\Code\office\ExcelSendSheet\ExcelSendSheet\obj\Debug\ExcelSendSheet.Form1.resources
+D:\Code\office\ExcelSendSheet\ExcelSendSheet\obj\Debug\ExcelSendSheet.MailsOptions.resources

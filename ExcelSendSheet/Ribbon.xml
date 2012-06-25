@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+<ribbon>
+  <tabs>
+
+    <tab idMso="TabHome" >
+      <group id="customGroup1" label="Sheet Send" insertAfterMso="GroupEditingExcel">
+
+        <menu id="MyMenu"	label="Send" imageMso ="SharePointListsWorkOffline" >
+
+          <button id="Button11" label="Selected Sheets"
+                  onAction="Send_Sheets_woform" imageMso="AttachItem" />
+
+          <button id="Button12" label="Selected Sheets - Advanced"
+                  onAction="Send_Sheets_form" imageMso="ManageReplies" />
+        </menu>
+
+      </group>
+    </tab>
+
+  </tabs>
+</ribbon>
+</customUI>
+
